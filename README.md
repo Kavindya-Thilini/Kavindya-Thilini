@@ -1,5 +1,5 @@
 - 👋 Hello there,
-- You can simply refer to me as Dia, I am an undergraduate on the verge of becoming a graduate in BSc Computer Science and Software Engineering.
+- You can simply refer to me as Dia, I am a graduate in BSc Computer Science and Software Engineering.
 - I find coding to be a puzzle like experience, complicated and confusing but with time and patience I am able to get the task done.
 - I am no huge expert in coding myself, referring to a bunch of Youtube tutorials and courses is how I have gotten by and learned even the basics.
 - To be fair, nor did school or university helped me learn about coding projects, it was mostly my self-studies that got me into programming.
